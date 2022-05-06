@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{46349D24-DEBB-4F0F-99CF-C4DE3DB23EB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1/IPrintable.cs">
+    <Files>
+      <File FileName="Task1/Program.cs" Line="10" Column="10" />
+      <File FileName="Task1/Word.cs" Line="1" Column="1" />
+      <File FileName="Task1/Excel.cs" Line="1" Column="1" />
+      <File FileName="Task1/PDF.cs" Line="1" Column="1" />
+      <File FileName="Task1/MainPrintFile.cs" Line="1" Column="1" />
+      <File FileName="Task1/IPrintable.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task1" expanded="True">
+            <Node name="Task1" expanded="True">
+              <Node name="Word.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

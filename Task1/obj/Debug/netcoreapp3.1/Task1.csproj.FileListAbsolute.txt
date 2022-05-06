@@ -1,0 +1,13 @@
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.AssemblyReference.cache
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfoInputs.cache
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.AssemblyInfo.cs
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.csproj.CoreCompileInputs.cache
+/Users/nailebunyatova/Projects/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.deps.json
+/Users/nailebunyatova/Projects/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.json
+/Users/nailebunyatova/Projects/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.runtimeconfig.dev.json
+/Users/nailebunyatova/Projects/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.dll
+/Users/nailebunyatova/Projects/Task1/Task1/bin/Debug/netcoreapp3.1/Task1.pdb
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.dll
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.pdb
+/Users/nailebunyatova/Projects/Task1/Task1/obj/Debug/netcoreapp3.1/Task1.genruntimeconfig.cache
